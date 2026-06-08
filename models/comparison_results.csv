@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Logistic Regression,0.9317,0.8768,0.9533,0.9134,0.9775
+Neural Network,0.9918,0.9846,0.9938,0.9891,0.9995
